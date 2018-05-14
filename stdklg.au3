@@ -1,6 +1,6 @@
 #cs ----------------------------------------------------------------------------
 
- File:			stdklg.exe
+ File:			stdklg.au3
  Author:		Sotiris Liagas
  Version:		1.0.0.1
  Language:		English (US)
