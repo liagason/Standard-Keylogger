@@ -1,9 +1,7 @@
-# Standard Keylogger
-A bare bones keylogger for Microsoft Windows XP/Vista/7/8/10
+# About Standard Keylogger
+A plain simple keylogger for Microsoft Windows XP/Vista/7/8/10
 
-# Get started
-Complile stdklg.au3
-
-Run the .exe file
-
-A .log file will be created in the same directory
+# How to run
+1. Complile stdklg.au3
+2. Run the .exe file
+3. A .log file will be created in the same directory
