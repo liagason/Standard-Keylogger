@@ -14,7 +14,7 @@
 #include <string.au3>
 #include <File.au3>
 
-; Uncomment next line to hide the tray icon
+; Uncomment the next line to hide the tray icon
 ;#NoTrayIcon
 
 ; Uncomment the next line to auto start with Windows
